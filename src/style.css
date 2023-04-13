@@ -49,11 +49,17 @@ form button {
 }
 
 p {
-  margin-left: 10%;
+  border: 1px solid black;
+  margin: 0;
+  padding: 10px;
+}
+
+.lighter {
+  background-color: #999;
 }
 
 .score-form {
-  margin-top: 27%;
+  margin-top: 15%;
 }
 
 .score-form h2 {

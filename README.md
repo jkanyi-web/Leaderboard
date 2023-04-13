@@ -22,7 +22,7 @@
 
 # Todo List App <a name="about-project"></a>
 
-**Todo App** is a small project to help master basic javascript concepts eg classes objects, arrays and dom manipulation and webpack.
+**Leaderboard App** is a small project that displays scores submitted by different players. It also allows you to submit your score.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,13 +40,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Dynamic Creation**
 - **Webpack Configuration**
-- **Add-Item-To-List feature**
-- **Remove-Item-From-List feature**
-- **Edit-List-Item feature**
-- **Clear-List feature**
-- **LocalStorage Feature**
+- **API**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,14 +68,14 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:jkanyi-web/Microverse-ToDo-App.git
+  git clone git@github.com:jkanyi-web/Leaderboard.git
 ```
 -
 
 ### Install
 
 Install this project with:
- git clone git@github.com:jkanyi-web/Microverse-ToDo-App.git
+ git clone git@github.com:jkanyi-web/Leaderboard.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,7 +119,7 @@ If you like this project, please leave a star on it to encourage me to continue 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Anita Sharma, a fellow Microverse student who helped me alot when I was stuck while doing this project. Cheers!
+I would like to thank Benson Njuguna, a fellow Microverse student who helped me alot when I was stuck while doing this project. Cheers!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
